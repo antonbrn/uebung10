@@ -5,7 +5,7 @@ public class Spielbrett {
 	// Attribute
 
 	private Feld[][] brett;
-	int dim = 0;
+	private int dim = 0;
 
 	// Konstruktor
  
